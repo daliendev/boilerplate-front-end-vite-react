@@ -32,6 +32,7 @@ module.exports = {
         ]
       }
     ],
+    'react/function-component-definition': [2, { "namedComponents": "arrow-function" }],
     'import/no-absolute-path': 0,
     'react/jsx-no-target-blank': 'off',
     'react-refresh/only-export-components': [
